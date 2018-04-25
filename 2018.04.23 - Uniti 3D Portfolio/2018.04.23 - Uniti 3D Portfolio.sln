@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2018.04.23 - Uniti 3D Portfolio", "2018.04.23 - Uniti 3D Portfolio.csproj", "{DAAF8CB6-7E1D-A6A1-49B6-0FAD3FB3B916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2018.04.23 - Uniti 3D Portfolio.Editor", "2018.04.23 - Uniti 3D Portfolio.Editor.csproj", "{7BF4429D-E825-F3AA-80A3-55987D9554E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAF8CB6-7E1D-A6A1-49B6-0FAD3FB3B916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAF8CB6-7E1D-A6A1-49B6-0FAD3FB3B916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAF8CB6-7E1D-A6A1-49B6-0FAD3FB3B916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAF8CB6-7E1D-A6A1-49B6-0FAD3FB3B916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF4429D-E825-F3AA-80A3-55987D9554E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF4429D-E825-F3AA-80A3-55987D9554E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF4429D-E825-F3AA-80A3-55987D9554E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF4429D-E825-F3AA-80A3-55987D9554E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
